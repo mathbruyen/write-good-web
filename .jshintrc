@@ -1,0 +1,27 @@
+{
+  "curly" : true,
+  "bitwise" : false,
+  "camelcase" : true,
+  "eqeqeq" : true,
+  "forin" : true,
+  "immed" : true,
+  "latedef" : true,
+  "newcap" : true,
+  "noarg" : true,
+  "noempty" : true,
+  "typed" : true,
+  "nonew" : true,
+  "plusplus" : false,
+  "indent" : 2,
+  "undef" : true,
+  "quotmark" : "single",
+  "unused" : true,
+  "globalstrict" : true,
+  "trailing" : true,
+  "esnext" : true,
+  "globals" : {
+    "require" : true,
+    "module" : true,
+    "document" : true
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "write-good-web",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "install": "gulp"
+  },
+  "author": "Mathieu Bruyen <code@mais-h.eu>",
+  "license": "MIT",
+  "dependencies": {
+    "write-good": "^0.7.0",
+    "gulp": "^3.8.7",
+    "browserify": "^5.9.3",
+    "gulp-clean": "^0.3.1",
+    "gulp-jshint": "^1.8.4",
+    "vinyl-source-stream": "^0.1.1"
+  }
+}
